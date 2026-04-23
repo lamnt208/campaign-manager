@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git clone *)",
+      "Bash(git init *)",
+      "Bash(git remote *)",
+      "Bash(git fetch *)",
+      "Bash(git reset *)",
+      "Bash(git -C /d/Exam/campaign-manager log --oneline --all)",
+      "Bash(git -C /d/Exam/campaign-manager show --stat HEAD)",
+      "Bash(git -C /d/Exam/campaign-manager status)",
+      "Bash(yarn add *)",
+      "Bash(yarn build *)",
+      "Bash(yarn typecheck *)",
+      "WebFetch(domain:raw.githubusercontent.com)"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+node_modules
+packages/*/node_modules
+packages/*/dist
+packages/frontend/dist
+pgdata
+*.log
+.git
+.claude
